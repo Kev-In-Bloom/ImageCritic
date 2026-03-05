@@ -536,4 +536,4 @@ button.color-btn:active,
     )
 
 if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0", server_port=7779)
+    demo.launch(server_name="0.0.0.0", server_port=7779, share=True)
